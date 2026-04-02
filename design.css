@@ -1,0 +1,42 @@
+body{
+	font-family: Arial;
+	text-align: center;
+	background: white;
+}
+
+nav ul{
+	list-style: none;
+	bakground: #2c3e50;
+	padding: 20px;
+	width: 200px;
+}
+
+nav ul li{
+	display: block;
+	margin: 15px 0;
+}
+
+nav ul a{
+	color: blue;
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+}
+
+nav ul a:hover{
+	background: #1abc9c;
+}
+.whatsapp{
+	display: inline-block;
+	background: #25D366l;
+	color: blue;
+	padding: 12px 20px;
+	text-decoration: none;
+	boarder-radius: 5px;
+	font-weight: bold;
+}
+
+.whatsapp-btn:hover{
+	background: #1ebe5d;
+}
+		
